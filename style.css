@@ -1,0 +1,42 @@
+
+body {
+	background-color:#ffffff00;
+}
+h1 {
+	color: #000000;
+	font-family: monospace;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+
+#dash {
+	
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: monospace;
+	font-size: 15px;
+	opacity: 100;
+	padding: 10px 5px;
+	border: 2px solid black;
+	border-radius: 8px;
+	transition-duration: 0.5s;
+
+}
+#dash:hover{
+
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-family: monospace;
+	font-size: 15px;
+	opacity: 100;
+	padding: 10px 5px;
+	border: 2px solid black;
+	border-radius: 8px;
+	
+    
+
+}
